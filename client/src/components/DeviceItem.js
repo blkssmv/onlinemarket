@@ -7,10 +7,10 @@ import { DEVICE_ROUTE } from '../utils/consts';
 const DeviceItem = ({device}) => {
     const navigate = useNavigate()
     return (
-        <Col md={3} className="mt-3" onClick={() => navigate(DEVICE_ROUTE + "/" + device.id)}>
+        <Col md={3} style={{width: 150}} className="mt-3" onClick={() => navigate(DEVICE_ROUTE + "/" + device.id)}>
             <Card 
                 style={{width: 150, cursor: "pointer"}} 
-                border="dark"
+                border="light"
             >
                 <Image width={150} height={150} src={device.img}/>
                 <div className='text-black-50 d-flex justify-content-between align-items-center mt-2 px-1'>

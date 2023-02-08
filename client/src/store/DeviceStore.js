@@ -23,16 +23,12 @@ export default class DeviceStore{
             {id: 4, name: "Huawei"},
         ]
         this._devices = [
-            {id: 1, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Freview%2Fapple-iphone-12-pro%2F&psig=AOvVaw2GywDwKOFEGPmHdedKIoQb&ust=1675837149399000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjOw4Higv0CFQAAAAAdAAAAABAV'},
-            {id: 2, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Freview%2Fapple-iphone-12-pro%2F&psig=AOvVaw2GywDwKOFEGPmHdedKIoQb&ust=1675837149399000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjOw4Higv0CFQAAAAAdAAAAABAV'},
-            {id: 3, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Freview%2Fapple-iphone-12-pro%2F&psig=AOvVaw2GywDwKOFEGPmHdedKIoQb&ust=1675837149399000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjOw4Higv0CFQAAAAAdAAAAABAV'},
-            {id: 4, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Freview%2Fapple-iphone-12-pro%2F&psig=AOvVaw2GywDwKOFEGPmHdedKIoQb&ust=1675837149399000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjOw4Higv0CFQAAAAAdAAAAABAV'},
-            {id: 5, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Freview%2Fapple-iphone-12-pro%2F&psig=AOvVaw2GywDwKOFEGPmHdedKIoQb&ust=1675837149399000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjOw4Higv0CFQAAAAAdAAAAABAV'},
-            {id: 6, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Freview%2Fapple-iphone-12-pro%2F&psig=AOvVaw2GywDwKOFEGPmHdedKIoQb&ust=1675837149399000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjOw4Higv0CFQAAAAAdAAAAABAV'},
-            {id: 7, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Freview%2Fapple-iphone-12-pro%2F&psig=AOvVaw2GywDwKOFEGPmHdedKIoQb&ust=1675837149399000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjOw4Higv0CFQAAAAAdAAAAABAV'},
-            {id: 8, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Freview%2Fapple-iphone-12-pro%2F&psig=AOvVaw2GywDwKOFEGPmHdedKIoQb&ust=1675837149399000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjOw4Higv0CFQAAAAAdAAAAABAV'},
-            {id: 9, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Freview%2Fapple-iphone-12-pro%2F&psig=AOvVaw2GywDwKOFEGPmHdedKIoQb&ust=1675837149399000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjOw4Higv0CFQAAAAAdAAAAABAV'},
-            {id: 10, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Freview%2Fapple-iphone-12-pro%2F&psig=AOvVaw2GywDwKOFEGPmHdedKIoQb&ust=1675837149399000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjOw4Higv0CFQAAAAAdAAAAABAV'},
+            {id: 1, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-pro-gold-2020?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1635202844000'},
+            {id: 2, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-pro-gold-2020?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1635202844000'},
+            {id: 3, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-pro-gold-2020?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1635202844000'},
+            {id: 4, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-pro-gold-2020?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1635202844000'},
+            {id: 5, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-pro-gold-2020?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1635202844000'},
+            {id: 6, name: "IPhone 12Pro", price: 250000, rating: 5, img: 'https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-pro-gold-2020?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1635202844000'},
         ]
         this._selectedType = {}
         this._selectedBrand = {}
